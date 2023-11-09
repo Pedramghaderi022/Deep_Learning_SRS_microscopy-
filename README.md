@@ -10,3 +10,8 @@ or images. Furthermore, by applying a k-means clustering algorithm to the proces
 demonstrate automatic, unsupervised image segmentation, yielding, without prior knowledge
 of the sample, intuitive chemical species maps, as shown here for a lithium ore sample.
 ![SRS](https://user-images.githubusercontent.com/131890890/234967756-8a8e209a-3f65-4f43-b640-1e486c50d5a2.png)
+Unsupervised Hyperspectral Stimulated Raman Microscopy Image Enhancement: De-Noising and Segmentation via One-Shot Deep Learning
+
+Paper: https://opg.optica.org/oe/fulltext.cfm?uri=oe-29-21-34205&id=460202
+
+Dataset here: https://drive.google.com/drive/folders/1Wnd8kgCrDWru8J4eJ5LBkvHkYA_veaMz?usp=sharing
